@@ -1,0 +1,10 @@
+Package: btrenamer
+Version: 0.0.0.1-1
+Architecture: i386
+Maintainer: mateusz2238 <mateusz2238@outlook.com>
+Installed-Size: 26
+Depends: btrenamer.sh
+Section: Script
+Priority: optional
+Homepage: https://github.com/mateusz2238/BTRenamer/
+Description: Bluetooth renamer for ubuntu script writed in bash

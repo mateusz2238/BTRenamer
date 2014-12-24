@@ -1,0 +1,14 @@
+Source: btrenamer
+Section: Script
+Priority: optional
+Maintainer: mateusz2238 <mateusz2238@outlook.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/mateusz2238/BTRenamer/
+#Vcs-Git: https://github.com/mateusz2238/BTRenamer/
+#Vcs-Browser: https://github.com/mateusz2238/BTRenamer/btrenamer.git;a=summary
+
+Package: btrenamer
+Architecture: any
+Depends: Makefile
+Description: Bluetooth renamer for ubuntu script writed in bash
